@@ -1,0 +1,7 @@
+Bean_Fraction_Cocoa
+Broken_Beans_Cocoa
+Fermented_Cocoa
+Moldy_Cocoa
+Unfermented_Cocoa
+Whole_Beans_Cocoa
+Error_Image
